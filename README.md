@@ -4,7 +4,7 @@ This Power BI dashboard provides an in-depth look into warehouse operations, hel
 
 ## 🌐 Live Embedded Dashboard
 
-👉 [Click here for full-screen embedded view](https://yourusername.github.io/warehouse-dashboard-powerbi)
+👉 [Click here for full-screen embedded view](https://subhamtri2015.github.io/warehouse-dashboard-powerbi/)
 
 > 🔐 Make sure your Power BI dashboard is published with public or workspace-level access if you're sharing this link publicly.
 
