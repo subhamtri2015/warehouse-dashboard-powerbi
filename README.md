@@ -2,6 +2,12 @@
 
 This Power BI dashboard provides an in-depth look into warehouse operations, helping identify bottlenecks and optimize overall performance.
 
+## 🌐 Live Embedded Dashboard
+
+👉 [Click here for full-screen embedded view](https://yourusername.github.io/warehouse-dashboard-powerbi)
+
+> 🔐 Make sure your Power BI dashboard is published with public or workspace-level access if you're sharing this link publicly.
+
 ---
 
 ## 📊 Dashboard Features
@@ -18,22 +24,11 @@ This Power BI dashboard provides an in-depth look into warehouse operations, hel
 
 Click the image below to open the Power BI dashboard in a new tab:
 
-![Screenshot 2025-04-09 at 12 44 18 PM](https://github.com/user-attachments/assets/498c9ebf-1dd6-43dc-b03f-1834764efdd0)
+![Screenshot 2025-04-09 at 12 49 09 PM](https://github.com/user-attachments/assets/9a045bbf-1348-4a1e-b68a-99b95cabd665)
 
 ![Screenshot 2025-04-09 at 12 43 12 PM](https://github.com/user-attachments/assets/3bfed339-0bd8-4e23-b0ed-62521ce908f8)
 
 ![Screenshot 2025-04-09 at 12 43 00 PM](https://github.com/user-attachments/assets/f2b297bf-3504-40c8-b3f6-81c3aa713ab8)
-
-
----
-
-## 🌐 Live Embedded Dashboard
-
-👉 [Click here for full-screen embedded view](https://yourusername.github.io/warehouse-dashboard-powerbi)
-
-> 🔐 Make sure your Power BI dashboard is published with public or workspace-level access if you're sharing this link publicly.
-
----
 
 ---
 
