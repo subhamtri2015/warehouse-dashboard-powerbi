@@ -18,7 +18,7 @@ This Power BI dashboard provides an in-depth look into warehouse operations, hel
 
 Click the image below to open the Power BI dashboard in a new tab:
 
-![Screenshot 2025-04-09 at 12 26 02 PM](https://github.com/user-attachments/assets/9b7be43a-e36e-4606-8cce-a04550ddce5e)
+![Screenshot 2025-04-09 at 12 44 18 PM](https://github.com/user-attachments/assets/498c9ebf-1dd6-43dc-b03f-1834764efdd0)
 
 ![Screenshot 2025-04-09 at 12 43 12 PM](https://github.com/user-attachments/assets/3bfed339-0bd8-4e23-b0ed-62521ce908f8)
 
@@ -35,12 +35,66 @@ Click the image below to open the Power BI dashboard in a new tab:
 
 ---
 
-## 💡 Actionable Insights
+---
 
-- ⚠️ **High Idle Time Identified** in XYZ zones — consider re-allocating workforce or automating material handling.
-- 🏷️ **SKU SKU-128** showed frequent overstock & understock cycles — optimize reorder thresholds.
-- 🚚 **Dispatch Delay** peaks during weekends — suggest optimizing shift schedules or carrier contracts.
-- 🧭 **Zone B** consistently slower in pick-pack-ship process — reevaluate layout or workflows.
+## 💡 Actionable Insights from Warehouse Data Analysis
+
+---
+
+### 📦 1. Zone C Bottleneck in Inbound Handling  
+> Inbound shipments to **Zone C** consistently exceed capacity, especially for **Accessories** and **Footwear**.  
+✅ **Action:** Reallocate SKUs using dynamic slotting. Offload to Zones A/B to reduce congestion.
+
+---
+
+### ⏳ 2. Delayed Fulfillment in High-Demand SKUs  
+> Orders for **Accessories** and **Footwear** often exceed **5 hours** to fulfill.  
+✅ **Action:** Optimize pick-pack workflows with zone/batch picking methods.
+
+---
+
+### 🚧 3. Zone B Sluggish Pick-Pack-Ship  
+> **Zone B** regularly shows slower order handling despite moderate volume.  
+✅ **Action:** Review zone layout and streamline workflows or automation.
+
+---
+
+### 🚦 4. Underutilized Warehouse Capacity  
+> Storage utilization drops to **~37%** during non-peak periods, especially for **Apparel** and **Footwear**.  
+✅ **Action:** Consolidate space and plan SKU rotation or seasonal intake.
+
+---
+
+### 📈 5. Inbound–Outbound Mismatch Causing Overstock  
+> High inbound volumes (e.g., **Sportswear**) with stagnant outbound movement result in stockpile buildup.  
+✅ **Action:** Sync procurement with demand forecasting to avoid dead stock.
+
+---
+
+### 🧭 6. Inventory Surges Without Turnover  
+> Example: **Apparel** rose from 3,640 → 4,991 units in a day without outbound flow.  
+✅ **Action:** Enable stock aging dashboards and alert mechanisms.
+
+---
+
+### ⚠️ 7. High Idle Time in XYZ Zones  
+> Prolonged idle periods observed in specific warehouse sections.  
+✅ **Action:** Reassign labor and explore automation in material handling.
+
+---
+
+### 🏷️ 8. Overstock–Understock Cycles for SKU-128  
+> Repeated fluctuation in inventory for **SKU-128** impacts service level.  
+✅ **Action:** Calibrate reorder points with real-time demand triggers.
+
+---
+
+### 🚚 9. Weekend Dispatch Delays  
+> Significant delays observed in dispatches on **Saturdays & Sundays**.  
+✅ **Action:** Adjust shift schedules or renegotiate terms with logistics partners.
+
+---
+
 
 ---
 
